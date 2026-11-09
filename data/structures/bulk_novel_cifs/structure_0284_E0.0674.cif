@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tl8Pb7
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   7.27917321
+_cell_length_b   7.42458329
+_cell_length_c   9.27378356
+_cell_angle_alpha   90.07817001
+_cell_angle_beta   90.00115008
+_cell_angle_gamma   90.30018271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl8Pb7
+_chemical_formula_sum   'Tl8 Pb7'
+_cell_volume   501.19268995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.21677738  0.44578162  0.57475135  1.0
+  Tl  Tl1  1  0.21883404  0.44757858  0.07339790  1.0
+  Tl  Tl2  1  0.47237112  0.18986216  0.83340391  1.0
+  Tl  Tl3  1  0.47337664  0.18994017  0.31490781  1.0
+  Tl  Tl4  1  0.47374175  0.70372211  0.82952816  1.0
+  Tl  Tl5  1  0.71935780  0.44500499  0.57460177  1.0
+  Tl  Tl6  1  0.96174811  0.18811485  0.83541131  1.0
+  Tl  Tl7  1  0.96278060  0.18899468  0.31332981  1.0
+  Pb  Pb8  1  0.21517069  0.93351493  0.07607598  1.0
+  Pb  Pb9  1  0.21648938  0.94204941  0.57358485  1.0
+  Pb  Pb10  1  0.47073755  0.70402553  0.32070346  1.0
+  Pb  Pb11  1  0.72142641  0.46360891  0.07596191  1.0
+  Pb  Pb12  1  0.72154815  0.93920073  0.57300074  1.0
+  Pb  Pb13  1  0.96624236  0.70331903  0.32099604  1.0
+  Pb  Pb14  1  0.96712969  0.70415142  0.82746756  1.0

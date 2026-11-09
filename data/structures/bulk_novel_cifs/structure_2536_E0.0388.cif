@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ga9Ir
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   7.93249868
+_cell_length_b   6.40385971
+_cell_length_c   7.40803362
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.62233238
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   Ga9Ir
+_chemical_formula_sum   'Ga18 Ir2'
+_cell_volume   358.65823746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.06090989  0.92976396  0.20751112  1.0
+  Ga  Ga1  4  0.11415899  0.58595159  0.68681145  1.0
+  Ga  Ga2  4  0.16978022  0.24170267  0.94582995  1.0
+  Ga  Ga3  4  0.22274360  0.45125217  0.32599157  1.0
+  Ga  Ga4  2  0.00000000  0.19611870  0.50000000  1.0
+  Ir  Ir5  2  0.00000000  0.58635057  0.00000000  1.0

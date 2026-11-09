@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TlPd6
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   4.92212849
+_cell_length_b   5.69549823
+_cell_length_c   8.57091625
+_cell_angle_alpha   89.89999323
+_cell_angle_beta   84.18997184
+_cell_angle_gamma   73.50160237
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   TlPd6
+_chemical_formula_sum   'Tl2 Pd12'
+_cell_volume   229.10875599
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  2  0.35517225  0.53573298  0.78507397  1.0
+  Pd  Pd1  2  0.07111271  0.61070367  0.36133522  1.0
+  Pd  Pd2  2  0.07665702  0.10258101  0.36031182  1.0
+  Pd  Pd3  2  0.20739285  0.82835778  0.07551351  1.0
+  Pd  Pd4  2  0.21539541  0.31560660  0.07208286  1.0
+  Pd  Pd5  2  0.35592207  0.03571002  0.78648637  1.0
+  Pd  Pd6  2  0.49966497  0.75585748  0.50141312  1.0

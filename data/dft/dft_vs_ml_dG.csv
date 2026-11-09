@@ -1,0 +1,9 @@
+compound,site_group,dG_DFT,dG_ALIGNN,dG_MEGNet,dG_MatterSim,slab_H_start_structure,dG_MEGNet_bestsite
+Pd13Ru3,dE_approx_0_sites,-0.145,0.241,0.325,0.003,structure_2245_E0.0874__110__t0__bridge__18.cif,0.242
+TiPd5,dE_approx_0_sites,-0.252,0.235,0.218,-0.049,structure_0750_E-0.0103__111__t1__hollow__9.cif,0.227
+Cu3Pd13,dE_approx_0_sites,-0.333,0.24,0.347,-0.06,structure_0577_E0.0136__111__t1__bridge__31.cif,0.241
+Pd5Au,dE_approx_0_sites,0.053,0.242,0.381,0.093,structure_2612_E0.0048__100__t0__hollow__14.cif,0.245
+Pt7Pb,dG_best_sites,-0.474,-0.0,-0.041,-0.161,structure_1858_E0.0449__100__t0__bridge__2.cif,-0.013
+Cu2Pt3,dG_best_sites,-0.371,0.003,0.242,0.085,structure_0659_E0.0214__100__t0__ontop__2.cif,0.018
+Cu5Pt3,dG_best_sites,-0.135,-0.0,-0.042,-0.056,structure_1278_E0.0070__110__t0__bridge__7.cif,-0.03
+Pt5Rh,dG_best_sites,-0.073,0.109,0.15,0.139,structure_1091_E0.0097__100__t2__bridge__9.cif,0.001

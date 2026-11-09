@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_InCu14
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   8.97304062
+_cell_length_b   5.17431217
+_cell_length_c   8.38575582
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.75774766
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   InCu14
+_chemical_formula_sum   'In2 Cu28'
+_cell_volume   389.16167825
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  2  0.40535441  0.00000000  0.55876871  1.0
+  Cu  Cu1  4  0.14727365  0.24448947  0.52928133  1.0
+  Cu  Cu2  4  0.28945639  0.25998363  0.79395096  1.0
+  Cu  Cu3  4  0.30652229  0.25046987  0.27877619  1.0
+  Cu  Cu4  4  0.46851970  0.25004542  0.02998673  1.0
+  Cu  Cu5  2  0.04732750  0.00000000  0.78217163  1.0
+  Cu  Cu6  2  0.05526283  0.00000000  0.28026918  1.0
+  Cu  Cu7  2  0.05807308  0.50000000  0.27800611  1.0
+  Cu  Cu8  2  0.21592318  0.50000000  0.03511696  1.0
+  Cu  Cu9  2  0.21719038  0.00000000  0.03335896  1.0
+  Cu  Cu10  2  0.38978316  0.50000000  0.53289030  1.0

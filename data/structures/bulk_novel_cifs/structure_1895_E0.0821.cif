@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ZnIn4
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.67983842
+_cell_length_b   6.60203670
+_cell_length_c   7.22421853
+_cell_angle_alpha   76.31716213
+_cell_angle_beta   78.06142952
+_cell_angle_gamma   89.20674040
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   ZnIn4
+_chemical_formula_sum   'Zn2 In8'
+_cell_volume   257.34059011
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.28807834  0.16857044  0.73408988  1.0
+  In  In1  2  0.19450115  0.34616825  0.07432427  1.0
+  In  In2  2  0.26187049  0.83585454  0.09638042  1.0
+  In  In3  2  0.42409712  0.70840713  0.65382938  1.0
+  In  In4  1  0.00000000  0.00000000  0.50000000  1.0
+  In  In5  1  0.00000000  0.50000000  0.50000000  1.0

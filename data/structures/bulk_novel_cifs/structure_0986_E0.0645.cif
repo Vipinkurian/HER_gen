@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CdSn9
+_symmetry_space_group_name_H-M   P2/m
+_cell_length_a   7.27455283
+_cell_length_b   5.12469002
+_cell_length_c   7.38555410
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.64287535
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   10
+_chemical_formula_structural   CdSn9
+_chemical_formula_sum   'Cd1 Sn9'
+_cell_volume   275.31485753
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50000000  0.00000000  0.00000000  1.0
+  Sn  Sn1  2  0.10421255  0.00000000  0.19751125  1.0
+  Sn  Sn2  2  0.20184192  0.50000000  0.90129304  1.0
+  Sn  Sn3  2  0.30171441  0.00000000  0.60373141  1.0
+  Sn  Sn4  2  0.40180243  0.50000000  0.29881264  1.0
+  Sn  Sn5  1  0.00000000  0.50000000  0.50000000  1.0

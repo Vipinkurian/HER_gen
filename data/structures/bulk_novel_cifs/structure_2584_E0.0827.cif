@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_GaSn10
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   11.59611656
+_cell_length_b   6.76901864
+_cell_length_c   7.97828290
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.05755605
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   GaSn10
+_chemical_formula_sum   'Ga2 Sn20'
+_cell_volume   626.14328781
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.21345883  0.50000000  0.61979270  1.0
+  Sn  Sn1  4  0.13158616  0.26110863  0.30288512  1.0
+  Sn  Sn2  4  0.29372420  0.26292669  0.96793293  1.0
+  Sn  Sn3  4  0.45078624  0.26673195  0.60960750  1.0
+  Sn  Sn4  2  0.03845441  0.00000000  0.98896620  1.0
+  Sn  Sn5  2  0.04316876  0.50000000  0.92352029  1.0
+  Sn  Sn6  2  0.20624455  0.00000000  0.64199528  1.0
+  Sn  Sn7  2  0.37894027  0.00000000  0.28672833  1.0

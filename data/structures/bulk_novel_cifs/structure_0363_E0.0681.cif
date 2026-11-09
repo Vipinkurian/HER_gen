@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GaCu14
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   7.21033203
+_cell_length_b   7.24654621
+_cell_length_c   7.18966367
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.05949225
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   GaCu14
+_chemical_formula_sum   'Ga2 Cu28'
+_cell_volume   375.65975431
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.47967170  0.00000000  0.83888778  1.0
+  Cu  Cu1  4  0.22342729  0.25147998  0.32976864  1.0
+  Cu  Cu2  4  0.22433593  0.25035207  0.83449439  1.0
+  Cu  Cu3  4  0.47346530  0.25277939  0.08356532  1.0
+  Cu  Cu4  4  0.47430354  0.25022315  0.58047533  1.0
+  Cu  Cu5  2  0.22349970  0.00000000  0.08359845  1.0
+  Cu  Cu6  2  0.22419317  0.50000000  0.58114124  1.0
+  Cu  Cu7  2  0.22447919  0.00000000  0.58105903  1.0
+  Cu  Cu8  2  0.47157456  0.50000000  0.32956872  1.0
+  Cu  Cu9  2  0.47167181  0.50000000  0.83454144  1.0
+  Cu  Cu10  2  0.47614116  0.00000000  0.32839527  1.0

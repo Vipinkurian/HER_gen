@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ga17Cu3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.40934626
+_cell_length_b   6.46944348
+_cell_length_c   8.36593097
+_cell_angle_alpha   89.56818246
+_cell_angle_beta   89.94831401
+_cell_angle_gamma   89.68983635
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga17Cu3
+_chemical_formula_sum   'Ga17 Cu3'
+_cell_volume   346.87745601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.01174050  0.24108041  0.68283202  1.0
+  Ga  Ga1  1  0.12347677  0.54304395  0.42902067  1.0
+  Ga  Ga2  1  0.13887891  0.54190306  0.93094396  1.0
+  Ga  Ga3  1  0.22812777  0.85693914  0.17285097  1.0
+  Ga  Ga4  1  0.25389832  0.84213075  0.69000327  1.0
+  Ga  Ga5  1  0.32763870  0.14522342  0.43030249  1.0
+  Ga  Ga6  1  0.33661379  0.12892248  0.92880918  1.0
+  Ga  Ga7  1  0.41349626  0.44377616  0.17552640  1.0
+  Ga  Ga8  1  0.43478501  0.43061834  0.68563341  1.0
+  Ga  Ga9  1  0.53101603  0.75038641  0.43293769  1.0
+  Ga  Ga10  1  0.64220301  0.04294482  0.17664316  1.0
+  Ga  Ga11  1  0.72663791  0.35292710  0.93136324  1.0
+  Ga  Ga12  1  0.72873812  0.33899576  0.42874227  1.0
+  Ga  Ga13  1  0.81603183  0.66717906  0.68941648  1.0
+  Ga  Ga14  1  0.82563638  0.63094089  0.17355186  1.0
+  Ga  Ga15  1  0.91075455  0.94928706  0.92849673  1.0
+  Ga  Ga16  1  0.93041675  0.94975940  0.43077081  1.0
+  Cu  Cu17  1  0.02737717  0.24175627  0.17112334  1.0
+  Cu  Cu18  1  0.53124833  0.74692306  0.93359734  1.0
+  Cu  Cu19  1  0.62691617  0.04429945  0.68701711  1.0

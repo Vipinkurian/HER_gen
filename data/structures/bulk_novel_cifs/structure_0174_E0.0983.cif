@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MoPd7
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   4.55438569
+_cell_length_b   5.61511770
+_cell_length_c   4.84996978
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   MoPd7
+_chemical_formula_sum   'Mo1 Pd7'
+_cell_volume   124.03027381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.00000000  0.50000000  0.94955425  1.0
+  Pd  Pd1  2  0.00000000  0.25447101  0.44986107  1.0
+  Pd  Pd2  2  0.50000000  0.25313598  0.11505974  1.0
+  Pd  Pd3  1  0.00000000  0.00000000  0.94915412  1.0
+  Pd  Pd4  1  0.50000000  0.00000000  0.61161016  1.0
+  Pd  Pd5  1  0.50000000  0.50000000  0.62469262  1.0

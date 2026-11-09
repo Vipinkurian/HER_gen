@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Zn13Ga3
+_symmetry_space_group_name_H-M   P-6m2
+_cell_length_a   5.67947951
+_cell_length_b   5.67947951
+_cell_length_c   9.10179043
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   187
+_chemical_formula_structural   Zn13Ga3
+_chemical_formula_sum   'Zn13 Ga3'
+_cell_volume   254.25794750
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+y, -x, -z'
+  3  '-y, x-y, z'
+  4  'x, y, -z'
+  5  '-x+y, -x, z'
+  6  '-y, x-y, -z'
+  7  '-y, -x, -z'
+  8  'x, x-y, z'
+  9  '-x+y, y, -z'
+  10  '-y, -x, z'
+  11  'x, x-y, -z'
+  12  '-x+y, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  6  0.32994498  0.16497249  0.25313125  1.0
+  Zn  Zn1  3  0.16301070  0.32602140  0.00000000  1.0
+  Zn  Zn2  3  0.50291082  0.00582164  0.50000000  1.0
+  Zn  Zn3  1  0.00000000  0.00000000  0.50000000  1.0
+  Ga  Ga4  2  0.33333333  0.66666667  0.24867771  1.0
+  Ga  Ga5  1  0.66666667  0.33333333  0.00000000  1.0

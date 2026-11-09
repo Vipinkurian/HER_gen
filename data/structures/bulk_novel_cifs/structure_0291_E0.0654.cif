@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ag8Au3
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   10.09989973
+_cell_length_b   5.83786420
+_cell_length_c   7.17991021
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.39697088
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Ag8Au3
+_chemical_formula_sum   'Ag16 Au6'
+_cell_volume   423.33057791
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  4  0.04517156  0.25241592  0.58386271  1.0
+  Ag  Ag1  4  0.21068022  0.25197307  0.24550956  1.0
+  Ag  Ag2  4  0.37895041  0.24989960  0.91477505  1.0
+  Ag  Ag3  2  0.12825581  0.00000000  0.91218386  1.0
+  Ag  Ag4  2  0.29421938  0.50000000  0.58558192  1.0
+  Au  Au5  2  0.29389421  0.00000000  0.58826405  1.0
+  Au  Au6  2  0.46160049  0.50000000  0.24154383  1.0
+  Au  Au7  2  0.46216177  0.00000000  0.24555901  1.0

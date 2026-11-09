@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cu11Pt
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   7.31222468
+_cell_length_b   7.31881733
+_cell_length_c   5.76169569
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.47950377
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Cu11Pt
+_chemical_formula_sum   'Cu22 Pt2'
+_cell_volume   292.44842531
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.08415361  0.24722312  0.83579015  1.0
+  Cu  Cu1  4  0.16326348  0.00000000  0.16308313  1.0
+  Cu  Cu2  4  0.16844229  0.50000000  0.16295714  1.0
+  Cu  Cu3  4  0.25000000  0.25000000  0.50000000  1.0
+  Cu  Cu4  2  0.00000000  0.00000000  0.50000000  1.0
+  Pt  Pt5  2  0.00000000  0.50000000  0.50000000  1.0

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn4Ag
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   9.63760241
+_cell_length_b   5.57828568
+_cell_length_c   9.05543409
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.53549591
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Zn4Ag
+_chemical_formula_sum   'Zn24 Ag6'
+_cell_volume   486.81064169
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  4  0.10568200  0.25355805  0.50586728  1.0
+  Zn  Zn1  4  0.10788333  0.25478650  0.00715771  1.0
+  Zn  Zn2  4  0.27661627  0.24496675  0.25082800  1.0
+  Zn  Zn3  4  0.43970480  0.24379235  0.76539884  1.0
+  Zn  Zn4  2  0.02197116  0.50000000  0.25329563  1.0
+  Zn  Zn5  2  0.18832518  0.50000000  0.76452893  1.0
+  Zn  Zn6  2  0.35612822  0.50000000  0.00399573  1.0
+  Zn  Zn7  2  0.35799656  0.00000000  0.50459564  1.0
+  Ag  Ag8  2  0.02708773  0.00000000  0.24821594  1.0
+  Ag  Ag9  2  0.19118733  0.00000000  0.75961736  1.0
+  Ag  Ag10  2  0.35503611  0.50000000  0.51204412  1.0

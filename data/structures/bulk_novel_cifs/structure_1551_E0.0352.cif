@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnNi4
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.02176342
+_cell_length_b   6.17147647
+_cell_length_c   7.56905658
+_cell_angle_alpha   74.27854004
+_cell_angle_beta   89.69857024
+_cell_angle_gamma   89.76551973
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   ZnNi4
+_chemical_formula_sum   'Zn4 Ni16'
+_cell_volume   225.79841734
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.24085673  0.89503533  0.29642255  1.0
+  Zn  Zn1  2  0.49936489  0.78883695  0.60630148  1.0
+  Ni  Ni2  2  0.00032129  0.20047562  0.39739903  1.0
+  Ni  Ni3  2  0.00389164  0.40693591  0.80066552  1.0
+  Ni  Ni4  2  0.24545670  0.49464949  0.50219207  1.0
+  Ni  Ni5  2  0.24706841  0.70119068  0.90467822  1.0
+  Ni  Ni6  2  0.24825147  0.30430325  0.09400204  1.0
+  Ni  Ni7  2  0.25170879  0.10095605  0.70313433  1.0
+  Ni  Ni8  2  0.49856334  0.39768290  0.80406438  1.0
+  Ni  Ni9  1  0.00000000  0.00000000  0.00000000  1.0
+  Ni  Ni10  1  0.50000000  0.00000000  0.00000000  1.0

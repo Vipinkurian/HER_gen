@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cu8Au
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.17548980
+_cell_length_b   6.20123563
+_cell_length_c   7.48252044
+_cell_angle_alpha   77.92222404
+_cell_angle_beta   79.95784686
+_cell_angle_gamma   89.79575216
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Cu8Au
+_chemical_formula_sum   'Cu16 Au2'
+_cell_volume   231.09858521
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.08751571  0.53216134  0.64220044  1.0
+  Cu  Cu1  2  0.10609891  0.14995824  0.56514809  1.0
+  Cu  Cu2  2  0.19766976  0.17654265  0.21355634  1.0
+  Cu  Cu3  2  0.21050799  0.78851069  0.15131665  1.0
+  Cu  Cu4  2  0.28567697  0.22375297  0.86048698  1.0
+  Cu  Cu5  2  0.38994857  0.84980766  0.42996404  1.0
+  Cu  Cu6  2  0.40826467  0.46704394  0.35773019  1.0
+  Cu  Cu7  1  0.00000000  0.50000000  0.00000000  1.0
+  Cu  Cu8  1  0.50000000  0.50000000  0.00000000  1.0
+  Au  Au9  2  0.29990293  0.83252352  0.79411559  1.0

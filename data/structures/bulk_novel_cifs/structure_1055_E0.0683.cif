@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn3Ga11
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.82625675
+_cell_length_b   5.87900155
+_cell_length_c   7.84628800
+_cell_angle_alpha   90.37444992
+_cell_angle_beta   90.80426247
+_cell_angle_gamma   91.42792056
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3Ga11
+_chemical_formula_sum   'Zn3 Ga11'
+_cell_volume   268.63924869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.34200609  0.69223758  0.82860705  1.0
+  Zn  Zn1  1  0.58898027  0.44021526  0.56074135  1.0
+  Zn  Zn2  1  0.59514134  0.95381934  0.05814846  1.0
+  Ga  Ga3  1  0.08590536  0.44306189  0.06335909  1.0
+  Ga  Ga4  1  0.10030345  0.93387597  0.07212889  1.0
+  Ga  Ga5  1  0.12632516  0.52299469  0.53667842  1.0
+  Ga  Ga6  1  0.31855226  0.18402783  0.78878647  1.0
+  Ga  Ga7  1  0.34384674  0.20514104  0.31188973  1.0
+  Ga  Ga8  1  0.49837800  0.89525409  0.53722978  1.0
+  Ga  Ga9  1  0.59329847  0.43977344  0.05759082  1.0
+  Ga  Ga10  1  0.81624155  0.69418138  0.31228794  1.0
+  Ga  Ga11  1  0.83612823  0.19421670  0.78523013  1.0
+  Ga  Ga12  1  0.84252372  0.71746145  0.78979491  1.0
+  Ga  Ga13  1  0.85246579  0.16874791  0.35428018  1.0

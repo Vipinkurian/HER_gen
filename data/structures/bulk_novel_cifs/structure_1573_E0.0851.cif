@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pt2Au
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   9.87498666
+_cell_length_b   5.72945969
+_cell_length_c   7.03290622
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.15074553
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   Pt2Au
+_chemical_formula_sum   'Pt16 Au8'
+_cell_volume   397.90876762
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  4  0.08221586  0.82253178  0.66592326  1.0
+  Pt  Pt1  4  0.16575425  0.06738063  0.32434831  1.0
+  Pt  Pt2  4  0.24806366  0.81977843  0.99141325  1.0
+  Pt  Pt3  2  0.00000000  0.06521987  0.00000000  1.0
+  Pt  Pt4  2  0.00000000  0.57483403  0.00000000  1.0
+  Au  Au5  4  0.08388220  0.31917593  0.67144204  1.0
+  Au  Au6  4  0.16731545  0.57106091  0.33745755  1.0

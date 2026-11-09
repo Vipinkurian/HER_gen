@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Pt4Pb
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.01147223
+_cell_length_b   5.80284255
+_cell_length_c   6.59813162
+_cell_angle_alpha   104.03575802
+_cell_angle_beta   97.29349804
+_cell_angle_gamma   106.28295610
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Pt4Pb
+_chemical_formula_sum   'Pt8 Pb2'
+_cell_volume   174.72404796
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  2  0.00501590  0.75598256  0.49552939  1.0
+  Pt  Pt1  2  0.18117498  0.13091800  0.88619492  1.0
+  Pt  Pt2  2  0.19765225  0.65691313  0.88955804  1.0
+  Pt  Pt3  2  0.40103120  0.05956998  0.29252437  1.0
+  Pb  Pb4  2  0.39111443  0.56067734  0.27656393  1.0

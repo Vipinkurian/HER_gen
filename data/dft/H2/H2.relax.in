@@ -1,0 +1,38 @@
+&CONTROL
+  calculation   = 'relax'
+  restart_mode  = 'from_scratch'
+  prefix        = 'H2'
+  pseudo_dir    = './pseudo'
+  tprnfor       = .true.
+  tstress       = .false.
+  forc_conv_thr = 1.0d-4
+  etot_conv_thr = 1.0d-5
+  verbosity     = 'high'
+  nstep         = 100
+/
+&SYSTEM
+  ibrav         = 0
+  nat           = 2
+  ntyp          = 1
+  ecutwfc       =   9.0000000000d+01
+  ecutrho       =   7.2000000000d+02
+  occupations   = 'fixed'
+  nspin         = 1
+/
+&ELECTRONS
+  conv_thr      = 1.0d-8
+  mixing_beta   =   3.0000000000d-01
+/
+&IONS
+  ion_dynamics  = 'bfgs'
+/
+ATOMIC_SPECIES
+H      1.00794 H.pbe-kjpaw_psl.1.0.0.UPF
+ATOMIC_POSITIONS angstrom
+H        7.5000000000      7.5000000000      7.1300000000
+H        7.5000000000      7.5000000000      7.8700000000
+K_POINTS gamma
+CELL_PARAMETERS angstrom
+     15.0000000000      0.0000000000      0.0000000000
+      0.0000000000     15.0000000000      0.0000000000
+      0.0000000000      0.0000000000     15.0000000000

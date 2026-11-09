@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Co7Ni5
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   4.96428122
+_cell_length_b   14.90834914
+_cell_length_c   4.28421182
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.30835235
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   Co7Ni5
+_chemical_formula_sum   'Co14 Ni10'
+_cell_volume   258.74705445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  2  0.00000000  0.08041358  0.00000000  1.0
+  Co  Co1  2  0.00000000  0.24836533  0.00000000  1.0
+  Co  Co2  2  0.00000000  0.33124109  0.50000000  1.0
+  Co  Co3  2  0.00000000  0.49804031  0.50000000  1.0
+  Co  Co4  2  0.00000000  0.57943559  0.00000000  1.0
+  Co  Co5  2  0.00000000  0.91513207  0.00000000  1.0
+  Co  Co6  2  0.00000000  0.99835032  0.50000000  1.0
+  Ni  Ni7  2  0.00000000  0.16393037  0.50000000  1.0
+  Ni  Ni8  2  0.00000000  0.41474419  0.00000000  1.0
+  Ni  Ni9  2  0.00000000  0.66379726  0.50000000  1.0
+  Ni  Ni10  2  0.00000000  0.74777543  0.00000000  1.0
+  Ni  Ni11  2  0.00000000  0.83145097  0.50000000  1.0

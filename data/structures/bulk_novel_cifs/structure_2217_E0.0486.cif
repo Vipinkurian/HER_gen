@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Fe11Cu
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   8.07491214
+_cell_length_b   5.69959916
+_cell_length_c   6.37442056
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.48269964
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Fe11Cu
+_chemical_formula_sum   'Fe22 Cu2'
+_cell_volume   278.24237463
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  8  0.08454741  0.25210787  0.83732027  1.0
+  Fe  Fe1  4  0.16586706  0.50000000  0.16772090  1.0
+  Fe  Fe2  4  0.16718874  0.00000000  0.16579557  1.0
+  Fe  Fe3  4  0.25000000  0.25000000  0.50000000  1.0
+  Fe  Fe4  2  0.00000000  0.50000000  0.50000000  1.0
+  Cu  Cu5  2  0.00000000  0.00000000  0.50000000  1.0

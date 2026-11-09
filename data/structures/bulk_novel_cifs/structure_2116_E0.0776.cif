@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Bi3Au8
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.02211043
+_cell_length_b   6.05946860
+_cell_length_c   7.40667861
+_cell_angle_alpha   88.57381871
+_cell_angle_beta   85.73119553
+_cell_angle_gamma   67.11896391
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi3Au8
+_chemical_formula_sum   'Bi3 Au8'
+_cell_volume   248.31547088
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.44690715  0.66751334  0.95746665  1.0
+  Bi  Bi1  1  0.68363698  0.06843223  0.19653997  1.0
+  Bi  Bi2  1  0.96983448  0.93101242  0.64452478  1.0
+  Au  Au3  1  0.16730650  0.10808823  0.26737704  1.0
+  Au  Au4  1  0.18824575  0.60149749  0.30949976  1.0
+  Au  Au5  1  0.33244342  0.17172301  0.89629438  1.0
+  Au  Au6  1  0.49437002  0.40376734  0.60653354  1.0
+  Au  Au7  1  0.49448778  0.91923608  0.55874109  1.0
+  Au  Au8  1  0.71882541  0.54107579  0.30639698  1.0
+  Au  Au9  1  0.95687067  0.61806556  0.97847700  1.0
+  Au  Au10  1  0.98833668  0.41605271  0.62630133  1.0

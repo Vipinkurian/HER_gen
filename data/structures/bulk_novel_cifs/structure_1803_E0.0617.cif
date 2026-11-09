@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BiPd2
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   9.86507863
+_cell_length_b   6.46577834
+_cell_length_c   7.24867675
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.48801497
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   BiPd2
+_chemical_formula_sum   'Bi8 Pd16'
+_cell_volume   459.39865376
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  4  0.18342697  0.00000000  0.13835464  1.0
+  Bi  Bi1  2  0.00000000  0.00000000  0.50000000  1.0
+  Bi  Bi2  2  0.00000000  0.50000000  0.50000000  1.0
+  Pd  Pd3  8  0.07351035  0.25225579  0.83250642  1.0
+  Pd  Pd4  4  0.17031095  0.50000000  0.17413081  1.0
+  Pd  Pd5  4  0.25000000  0.25000000  0.50000000  1.0

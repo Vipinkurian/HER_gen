@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Bi2Pt
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   8.36840560
+_cell_length_b   8.39111453
+_cell_length_c   43.65571781
+_cell_angle_alpha   84.63601976
+_cell_angle_beta   84.52056148
+_cell_angle_gamma   60.12727424
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Bi2Pt
+_chemical_formula_sum   'Bi8 Pt4'
+_cell_volume   2642.31848642
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  2  0.09189113  0.59945627  0.46954354  1.0
+  Bi  Bi1  2  0.10300081  0.07998438  0.46847206  1.0
+  Bi  Bi2  2  0.40323977  0.91422373  0.53232165  1.0
+  Bi  Bi3  2  0.41476248  0.39725511  0.53058721  1.0
+  Pt  Pt4  2  0.24830455  0.74952991  0.50258523  1.0
+  Pt  Pt5  2  0.25110741  0.24991780  0.49861208  1.0

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_In6Ag5
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.18168933
+_cell_length_b   6.20011767
+_cell_length_c   7.43456453
+_cell_angle_alpha   87.16318456
+_cell_angle_beta   86.54568274
+_cell_angle_gamma   62.15472017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In6Ag5
+_chemical_formula_sum   'In6 Ag5'
+_cell_volume   251.42141375
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.05392542  0.15571293  0.24853147  1.0
+  In  In1  1  0.20130503  0.80093575  0.59618919  1.0
+  In  In2  1  0.21184207  0.29253590  0.63470319  1.0
+  In  In3  1  0.37099185  0.50007035  0.96705465  1.0
+  In  In4  1  0.69793833  0.79556099  0.60158919  1.0
+  In  In5  1  0.82733450  0.98231358  0.95119148  1.0
+  Ag  Ag6  1  0.03221274  0.64720058  0.27493070  1.0
+  Ag  Ag7  1  0.53699251  0.15926552  0.29164069  1.0
+  Ag  Ag8  1  0.54320686  0.65276541  0.27172816  1.0
+  Ag  Ag9  1  0.71124889  0.30333932  0.60681494  1.0
+  Ag  Ag10  1  0.85738708  0.48809930  0.94159342  1.0

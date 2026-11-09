@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tl4Ag
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   8.65694617
+_cell_length_b   7.56750886
+_cell_length_c   8.74020635
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.05315365
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Tl4Ag
+_chemical_formula_sum   'Tl16 Ag4'
+_cell_volume   572.58392869
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  2  0.15697227  0.26844947  0.00974748  1.0
+  Tl  Tl1  2  0.38428945  0.25898693  0.39107842  1.0
+  Tl  Tl2  2  0.55890591  0.27377420  0.80308741  1.0
+  Tl  Tl3  2  0.76237038  0.27482276  0.15903368  1.0
+  Tl  Tl4  1  0.05605049  0.00000000  0.32369020  1.0
+  Tl  Tl5  1  0.05907823  0.50000000  0.33164256  1.0
+  Tl  Tl6  1  0.23103208  0.50000000  0.68870986  1.0
+  Tl  Tl7  1  0.24824436  0.00000000  0.69514133  1.0
+  Tl  Tl8  1  0.46160297  0.00000000  0.08926200  1.0
+  Tl  Tl9  1  0.69214177  0.00000000  0.49215031  1.0
+  Tl  Tl10  1  0.70245280  0.50000000  0.50216440  1.0
+  Tl  Tl11  1  0.86832248  0.00000000  0.86989607  1.0
+  Ag  Ag12  2  0.96229743  0.24500620  0.60836476  1.0
+  Ag  Ag13  1  0.45211370  0.50000000  0.10052011  1.0
+  Ag  Ag14  1  0.87789419  0.50000000  0.84963704  1.0

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ga17W3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.68603515
+_cell_length_b   5.72986556
+_cell_length_c   10.47638512
+_cell_angle_alpha   95.00048577
+_cell_angle_beta   99.95201465
+_cell_angle_gamma   92.22791770
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga17W3
+_chemical_formula_sum   'Ga17 W3'
+_cell_volume   334.40100387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.09068784  0.44134061  0.60269971  1.0
+  Ga  Ga1  1  0.12673265  0.97139760  0.60367274  1.0
+  Ga  Ga2  1  0.16765532  0.54492751  0.98090794  1.0
+  Ga  Ga3  1  0.16861181  0.03883757  0.98532169  1.0
+  Ga  Ga4  1  0.28073236  0.63024461  0.39202697  1.0
+  Ga  Ga5  1  0.28937396  0.09797274  0.37639048  1.0
+  Ga  Ga6  1  0.41192491  0.76851144  0.78389157  1.0
+  Ga  Ga7  1  0.48961598  0.34732423  0.20154228  1.0
+  Ga  Ga8  1  0.49088606  0.83019103  0.18243442  1.0
+  Ga  Ga9  1  0.55361018  0.39360191  0.59315677  1.0
+  Ga  Ga10  1  0.67579669  0.05291926  0.99744652  1.0
+  Ga  Ga11  1  0.68176259  0.54658756  0.98409562  1.0
+  Ga  Ga12  1  0.80029224  0.63983913  0.39383353  1.0
+  Ga  Ga13  1  0.80289874  0.12392746  0.39376165  1.0
+  Ga  Ga14  1  0.84361467  0.20132167  0.78073184  1.0
+  Ga  Ga15  1  0.87933727  0.71414895  0.76134738  1.0
+  Ga  Ga16  1  0.98625538  0.33439427  0.19569267  1.0
+  W  W17  1  0.36539054  0.26776529  0.81356433  1.0
+  W  W18  1  0.60103087  0.90359120  0.56838655  1.0
+  W  W19  1  0.98915306  0.81921211  0.17203179  1.0

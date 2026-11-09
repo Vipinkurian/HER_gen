@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Zn5Pt
+_symmetry_space_group_name_H-M   P2/m
+_cell_length_a   4.61936910
+_cell_length_b   2.92882798
+_cell_length_c   6.58713740
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.86668177
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   10
+_chemical_formula_structural   Zn5Pt
+_chemical_formula_sum   'Zn5 Pt1'
+_cell_volume   89.10940939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.17038010  0.50000000  0.84269489  1.0
+  Zn  Zn1  2  0.33681012  0.00000000  0.17463894  1.0
+  Zn  Zn2  1  0.00000000  0.00000000  0.50000000  1.0
+  Pt  Pt3  1  0.50000000  0.50000000  0.50000000  1.0

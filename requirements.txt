@@ -1,0 +1,28 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+
+# Structure handling
+pymatgen==2025.6.14  # pinned: slab termination order depends on the version
+ase
+matminer
+
+# Generative model
+mattergen            # https://github.com/microsoft/mattergen
+
+# Machine-learning force field (surface-energy screen, slab+H relaxation,
+# CHE triangulation)
+mattersim            # https://github.com/microsoft/mattersim
+
+# Phonons of the DFT candidates
+phonopy
+seekpath
+
+# GNN surrogates
+torch
+dgl
+matgl                # MEGNet;  https://github.com/materialsvirtuallab/matgl
+alignn               # https://github.com/usnistgov/alignn
+jarvis-tools

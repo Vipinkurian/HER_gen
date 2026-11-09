@@ -1,0 +1,58 @@
+&CONTROL
+  calculation   = 'relax'
+  restart_mode  = 'from_scratch'
+  prefix        = 'Pt7Pb_slab'
+  pseudo_dir    = './pseudo'
+  tprnfor       = .true.
+  tstress       = .false.
+  forc_conv_thr = 1.0d-4
+  etot_conv_thr = 1.0d-5
+  verbosity     = 'high'
+  nstep         = 300
+/
+&SYSTEM
+  ibrav       = 0
+  nat         = 16
+  ntyp        = 2
+  ecutwfc     = 90.0
+  ecutrho     = 720.0
+  occupations = 'smearing'
+  smearing    = 'cold'
+  degauss     = 2.0d-02
+  nspin       = 1
+/
+&ELECTRONS
+  conv_thr         = 3.20d-09
+  electron_maxstep = 200
+  mixing_beta      = 0.3
+  mixing_mode      = 'local-TF'
+/
+&IONS
+  ion_dynamics = 'bfgs'
+/
+ATOMIC_SPECIES
+Pb    207.200000  Pb.pbe-dn-kjpaw_psl.1.0.0.UPF
+Pt    195.084000  Pt.pbe-n-kjpaw_psl.1.0.0.UPF
+ATOMIC_POSITIONS crystal
+Pt    0.5000000000   0.0000000000   0.3753209800   0  0  0
+Pt    0.7500000000   0.2500000000   0.4586543100   0  0  0
+Pt    0.2426876300   0.7574500200   0.6215432600   1  1  1
+Pt    0.0000000000   0.5000000000   0.3753209800   0  0  0
+Pt    0.7542836700   0.2440514100   0.6242376000   1  1  1
+Pt    0.2500000000   0.7500000000   0.4586543100   0  0  0
+Pt    0.2457163600   0.2440514800   0.6242376300   1  1  1
+Pt    0.7500000000   0.7500000000   0.4586543100   0  0  0
+Pt    0.7573122900   0.7574499800   0.6215432700   1  1  1
+Pt    0.2500000000   0.2500000000   0.4586543100   0  0  0
+Pt    0.0000000000   0.5000000000   0.5419876500   0  0  0
+Pt    0.5000000000   0.0000000000   0.5419876500   0  0  0
+Pt    0.5000000000   0.5000000000   0.3753209800   0  0  0
+Pt    0.0000000000   0.0000000000   0.5419876500   0  0  0
+Pb    0.0000000000   0.0000000000   0.3753209800   0  0  0
+Pb    0.5000000000   0.5000000000   0.5419876500   0  0  0
+K_POINTS automatic
+8 8 1 0 0 0
+CELL_PARAMETERS angstrom
+      5.7363135400     0.0000000000     0.0000000000
+      0.0000000000     5.7363135400     0.0000000000
+      0.0000000000     0.0000000000    24.3371172000

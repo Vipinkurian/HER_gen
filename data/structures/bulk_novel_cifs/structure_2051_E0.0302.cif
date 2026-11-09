@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Tl8Pt
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.42419007
+_cell_length_b   6.43292709
+_cell_length_c   6.51800976
+_cell_angle_alpha   96.07178988
+_cell_angle_beta   94.05158818
+_cell_angle_gamma   95.41155441
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Tl8Pt
+_chemical_formula_sum   'Tl8 Pt1'
+_cell_volume   265.77463489
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  2  0.13329119  0.37314227  0.29071987  1.0
+  Tl  Tl1  2  0.21893224  0.87002257  0.11166692  1.0
+  Tl  Tl2  2  0.29539464  0.31062205  0.80161781  1.0
+  Tl  Tl3  2  0.37450712  0.79218017  0.61221048  1.0
+  Pt  Pt4  1  0.00000000  0.00000000  0.50000000  1.0

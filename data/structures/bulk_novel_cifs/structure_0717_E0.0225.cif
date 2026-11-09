@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Zn7Ag11
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.76055592
+_cell_length_b   7.61256930
+_cell_length_c   7.66864148
+_cell_angle_alpha   67.70888059
+_cell_angle_beta   80.13682780
+_cell_angle_gamma   77.77537678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn7Ag11
+_chemical_formula_sum   'Zn7 Ag11'
+_cell_volume   302.56015543
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.02039807  0.47404765  0.34852491  1.0
+  Zn  Zn1  1  0.19181975  0.81744015  0.34483372  1.0
+  Zn  Zn2  1  0.35931735  0.47471203  0.01206809  1.0
+  Zn  Zn3  1  0.36367853  0.81056604  0.68414654  1.0
+  Zn  Zn4  1  0.52907570  0.81514339  0.01625298  1.0
+  Zn  Zn5  1  0.69014784  0.47421284  0.68247840  1.0
+  Zn  Zn6  1  0.86005946  0.81604197  0.68247047  1.0
+  Ag  Ag7  1  0.02519536  0.14875717  0.67971878  1.0
+  Ag  Ag8  1  0.04026483  0.80152426  0.01799028  1.0
+  Ag  Ag9  1  0.18983759  0.49478123  0.67497525  1.0
+  Ag  Ag10  1  0.19385492  0.14415031  0.01537115  1.0
+  Ag  Ag11  1  0.35574404  0.14482075  0.34910985  1.0
+  Ag  Ag12  1  0.51280658  0.48646501  0.34127338  1.0
+  Ag  Ag13  1  0.52649298  0.13716744  0.68485678  1.0
+  Ag  Ag14  1  0.69098875  0.14609663  0.01405062  1.0
+  Ag  Ag15  1  0.69694907  0.80079363  0.35952623  1.0
+  Ag  Ag16  1  0.84952353  0.48762229  0.00796322  1.0
+  Ag  Ag17  1  0.85937397  0.14178753  0.35034894  1.0

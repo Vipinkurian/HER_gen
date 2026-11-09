@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Zn4Co
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   4.71896209
+_cell_length_b   5.34911707
+_cell_length_c   5.94853414
+_cell_angle_alpha   76.31226014
+_cell_angle_beta   75.12263946
+_cell_angle_gamma   72.84479383
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Zn4Co
+_chemical_formula_sum   'Zn8 Co2'
+_cell_volume   136.54358093
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.07407164  0.16816624  0.78831814  1.0
+  Zn  Zn1  2  0.10188973  0.64765394  0.76787578  1.0
+  Zn  Zn2  2  0.33454226  0.93572247  0.38986154  1.0
+  Zn  Zn3  2  0.49970428  0.25894893  0.01097340  1.0
+  Co  Co4  2  0.30830607  0.44976826  0.39616591  1.0

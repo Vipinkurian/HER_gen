@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cd2Pd13
+_symmetry_space_group_name_H-M   Amm2
+_cell_length_a   7.94375382
+_cell_length_b   8.02989808
+_cell_length_c   7.87637188
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   38
+_chemical_formula_structural   Cd2Pd13
+_chemical_formula_sum   'Cd4 Pd26'
+_cell_volume   502.41433581
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  4  0.26096672  0.00000000  0.44181319  1.0
+  Pd  Pd1  8  0.25147892  0.24709670  0.18288758  1.0
+  Pd  Pd2  4  0.00000000  0.24767867  0.93250883  1.0
+  Pd  Pd3  4  0.25181974  0.00000000  0.92819038  1.0
+  Pd  Pd4  4  0.50000000  0.23809387  0.92682276  1.0
+  Pd  Pd5  2  0.00000000  0.00000000  0.17954192  1.0
+  Pd  Pd6  2  0.00000000  0.00000000  0.68542020  1.0
+  Pd  Pd7  2  0.50000000  0.00000000  0.17872670  1.0

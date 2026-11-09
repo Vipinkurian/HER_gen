@@ -1,0 +1,11 @@
+{
+  "cutoff": 5.0,
+  "pretrained": "MEGNet-MP-2018.6.1-Eform",
+  "state_feat_1": "MagpieData mean NdUnfilled",
+  "state_feat_2": "MagpieData mean MendeleevNumber",
+  "state_attr_dim": 2,
+  "dropout": 0.15,
+  "huber_delta": 0.5,
+  "lr": 0.0005,
+  "weight_decay": 0.0001
+}

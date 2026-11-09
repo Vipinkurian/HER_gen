@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ag7Sn3
+_symmetry_space_group_name_H-M   P2/m
+_cell_length_a   4.33739907
+_cell_length_b   4.31555562
+_cell_length_c   10.97499460
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.35218668
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   10
+_chemical_formula_structural   Ag7Sn3
+_chemical_formula_sum   'Ag7 Sn3'
+_cell_volume   201.41395953
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  2  0.09458376  0.00000000  0.69505758  1.0
+  Ag  Ag1  2  0.30391900  0.00000000  0.10351601  1.0
+  Ag  Ag2  2  0.40343042  0.50000000  0.30469613  1.0
+  Ag  Ag3  1  0.00000000  0.50000000  0.50000000  1.0
+  Sn  Sn4  2  0.19214431  0.50000000  0.88813835  1.0
+  Sn  Sn5  1  0.50000000  0.00000000  0.50000000  1.0

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sn3Pb2
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   10.13078731
+_cell_length_b   10.04280565
+_cell_length_c   9.07356954
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.28302312
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Sn3Pb2
+_chemical_formula_sum   'Sn18 Pb12'
+_cell_volume   923.14756704
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  4  0.23262454  0.24732957  0.60387344  1.0
+  Sn  Sn1  4  0.47910613  0.24388147  0.84499935  1.0
+  Sn  Sn2  2  0.22995829  0.50000000  0.35136897  1.0
+  Sn  Sn3  2  0.23395898  0.00000000  0.35232119  1.0
+  Sn  Sn4  2  0.47396091  0.00000000  0.60254297  1.0
+  Sn  Sn5  2  0.47926835  0.50000000  0.09091724  1.0
+  Sn  Sn6  2  0.48169203  0.00000000  0.09491142  1.0
+  Pb  Pb7  4  0.23062620  0.23678255  0.08824252  1.0
+  Pb  Pb8  4  0.48124988  0.24954651  0.34930349  1.0
+  Pb  Pb9  2  0.22831537  0.50000000  0.84613479  1.0
+  Pb  Pb10  2  0.49331028  0.50000000  0.61071698  1.0

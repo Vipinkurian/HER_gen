@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZnCu2
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.10644852
+_cell_length_b   5.10629649
+_cell_length_c   10.46304137
+_cell_angle_alpha   91.61197913
+_cell_angle_beta   95.76707852
+_cell_angle_gamma   118.26973680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu2
+_chemical_formula_sum   'Zn6 Cu12'
+_cell_volume   238.17337626
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.08770376  0.99120835  0.91121425  1.0
+  Zn  Zn1  1  0.18838140  0.26622618  0.66115782  1.0
+  Zn  Zn2  1  0.56791483  0.72786518  0.34499060  1.0
+  Zn  Zn3  1  0.58915340  0.49209681  0.91246992  1.0
+  Zn  Zn4  1  0.59281100  0.98882432  0.91474340  1.0
+  Zn  Zn5  1  0.87481719  0.50473836  0.51277211  1.0
+  Cu  Cu6  1  0.06075962  0.72086736  0.31209325  1.0
+  Cu  Cu7  1  0.06930575  0.22551951  0.34124019  1.0
+  Cu  Cu8  1  0.09269160  0.48866167  0.91466762  1.0
+  Cu  Cu9  1  0.20343733  0.77543268  0.71539846  1.0
+  Cu  Cu10  1  0.32170709  0.85746217  0.11548223  1.0
+  Cu  Cu11  1  0.32212002  0.36272821  0.12417186  1.0
+  Cu  Cu12  1  0.38989213  0.99136188  0.51347850  1.0
+  Cu  Cu13  1  0.55883749  0.21889879  0.31124880  1.0
+  Cu  Cu14  1  0.69398201  0.77389217  0.68739476  1.0
+  Cu  Cu15  1  0.70621037  0.27854013  0.71562259  1.0
+  Cu  Cu16  1  0.82372886  0.86413896  0.12566462  1.0
+  Cu  Cu17  1  0.82538509  0.35919618  0.11688161  1.0

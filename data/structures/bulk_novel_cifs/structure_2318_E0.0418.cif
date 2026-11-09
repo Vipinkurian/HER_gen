@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SnPb2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.17237083
+_cell_length_b   6.17413799
+_cell_length_c   7.58051813
+_cell_angle_alpha   85.17992452
+_cell_angle_beta   77.07351774
+_cell_angle_gamma   81.26363365
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   SnPb2
+_chemical_formula_sum   'Sn3 Pb6'
+_cell_volume   277.92284504
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  2  0.28606522  0.55704410  0.89348356  1.0
+  Sn  Sn1  1  0.50000000  0.00000000  0.00000000  1.0
+  Pb  Pb2  2  0.06212166  0.11914521  0.78559074  1.0
+  Pb  Pb3  2  0.16597214  0.32900970  0.32030150  1.0
+  Pb  Pb4  2  0.38998496  0.77245691  0.44109299  1.0

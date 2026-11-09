@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zn2Cu5
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   4.53007405
+_cell_length_b   5.82114410
+_cell_length_c   6.84709867
+_cell_angle_alpha   89.73272771
+_cell_angle_beta   89.63841579
+_cell_angle_gamma   75.05394630
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Zn2Cu5
+_chemical_formula_sum   'Zn4 Cu10'
+_cell_volume   174.44662921
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.21323338  0.61194885  0.53812460  1.0
+  Zn  Zn1  2  0.35662977  0.17088308  0.38339850  1.0
+  Cu  Cu2  2  0.07055176  0.03989989  0.68303227  1.0
+  Cu  Cu3  2  0.07096466  0.53625916  0.17599425  1.0
+  Cu  Cu4  2  0.21367615  0.10594374  0.03176776  1.0
+  Cu  Cu5  2  0.35540440  0.67798275  0.89682634  1.0
+  Cu  Cu6  2  0.49870890  0.25255466  0.75321953  1.0

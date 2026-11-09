@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Zn7Cd9
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.08218467
+_cell_length_b   6.08959600
+_cell_length_c   9.72039751
+_cell_angle_alpha   90.11390712
+_cell_angle_beta   90.02793256
+_cell_angle_gamma   119.74526351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn7Cd9
+_chemical_formula_sum   'Zn7 Cd9'
+_cell_volume   312.58658202
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.02293497  0.81490542  0.96606666  1.0
+  Zn  Zn1  1  0.17635742  0.14398972  0.21901656  1.0
+  Zn  Zn2  1  0.18892588  0.65530008  0.72568465  1.0
+  Zn  Zn3  1  0.70367549  0.65765597  0.71918085  1.0
+  Zn  Zn4  1  0.70492186  0.14898285  0.22461065  1.0
+  Zn  Zn5  1  0.70858112  0.67443794  0.21817420  1.0
+  Zn  Zn6  1  0.85984376  0.98718033  0.45249493  1.0
+  Cd  Cd7  1  0.02907096  0.31643557  0.97198433  1.0
+  Cd  Cd8  1  0.19021241  0.14402800  0.71848569  1.0
+  Cd  Cd9  1  0.19285266  0.66193715  0.21167589  1.0
+  Cd  Cd10  1  0.36164884  0.99336779  0.46061203  1.0
+  Cd  Cd11  1  0.36427285  0.49422465  0.46860198  1.0
+  Cd  Cd12  1  0.53133731  0.31988329  0.98563460  1.0
+  Cd  Cd13  1  0.53466304  0.81682818  0.96531200  1.0
+  Cd  Cd14  1  0.69747733  0.14997989  0.71168152  1.0
+  Cd  Cd15  1  0.86026962  0.49742569  0.46716695  1.0

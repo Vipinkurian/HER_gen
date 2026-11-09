@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tl7In3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   7.29641856
+_cell_length_b   8.57701455
+_cell_length_c   9.81598072
+_cell_angle_alpha   100.37647503
+_cell_angle_beta   90.01264593
+_cell_angle_gamma   90.03356754
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl7In3
+_chemical_formula_sum   'Tl14 In6'
+_cell_volume   604.25200068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.14910516  0.53604503  0.19013616  1.0
+  Tl  Tl1  1  0.14922624  0.12601988  0.00265841  1.0
+  Tl  Tl2  1  0.15064838  0.94341727  0.38411868  1.0
+  Tl  Tl3  1  0.39431750  0.63418978  0.49383017  1.0
+  Tl  Tl4  1  0.39564062  0.03038483  0.69919202  1.0
+  Tl  Tl5  1  0.39976403  0.42956729  0.89167593  1.0
+  Tl  Tl6  1  0.40629380  0.82938439  0.08731288  1.0
+  Tl  Tl7  1  0.64246203  0.33051401  0.58842757  1.0
+  Tl  Tl8  1  0.65022263  0.93299994  0.38820800  1.0
+  Tl  Tl9  1  0.65620802  0.73418040  0.79281622  1.0
+  Tl  Tl10  1  0.89381057  0.24053786  0.29206151  1.0
+  Tl  Tl11  1  0.90054089  0.42785582  0.88983614  1.0
+  Tl  Tl12  1  0.90444646  0.03712391  0.69598750  1.0
+  Tl  Tl13  1  0.90582455  0.63141392  0.49424094  1.0
+  In  In14  1  0.14415170  0.72967186  0.79735896  1.0
+  In  In15  1  0.15736996  0.33060253  0.58664084  1.0
+  In  In16  1  0.40643665  0.24172160  0.28863145  1.0
+  In  In17  1  0.65068447  0.13294394  0.99879817  1.0
+  In  In18  1  0.65087970  0.53389396  0.19114613  1.0
+  In  In19  1  0.89419033  0.82909767  0.08927507  1.0

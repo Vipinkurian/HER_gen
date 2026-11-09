@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ag4Au15
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.87416877
+_cell_length_b   7.74881917
+_cell_length_c   8.26513858
+_cell_angle_alpha   105.30254155
+_cell_angle_beta   90.24033818
+_cell_angle_gamma   100.62043077
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag4Au15
+_chemical_formula_sum   'Ag4 Au15'
+_cell_volume   356.10275370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.26432324  0.01681583  0.22774338  1.0
+  Ag  Ag1  1  0.36321444  0.41190034  0.32717026  1.0
+  Ag  Ag2  1  0.86924864  0.40993940  0.83502952  1.0
+  Ag  Ag3  1  0.96623727  0.81326096  0.43072198  1.0
+  Au  Au4  1  0.06674312  0.21283252  0.53015395  1.0
+  Au  Au5  1  0.16390737  0.61094163  0.13057589  1.0
+  Au  Au6  1  0.16498043  0.61333172  0.63160541  1.0
+  Au  Au7  1  0.26337576  0.01771691  0.73621670  1.0
+  Au  Au8  1  0.36274879  0.40951885  0.83476494  1.0
+  Au  Au9  1  0.46427785  0.81336972  0.42979058  1.0
+  Au  Au10  1  0.46570553  0.81557775  0.93270047  1.0
+  Au  Au11  1  0.56623492  0.21389200  0.53030747  1.0
+  Au  Au12  1  0.56812236  0.21514556  0.03240768  1.0
+  Au  Au13  1  0.66625691  0.61193291  0.13094396  1.0
+  Au  Au14  1  0.66652007  0.61187894  0.63036223  1.0
+  Au  Au15  1  0.76878656  0.01475587  0.73390393  1.0
+  Au  Au16  1  0.77036603  0.01583009  0.22824696  1.0
+  Au  Au17  1  0.86884844  0.41018946  0.32624746  1.0
+  Au  Au18  1  0.96756071  0.81934753  0.93284856  1.0

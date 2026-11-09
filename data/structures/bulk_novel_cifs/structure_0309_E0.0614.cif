@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ga5Pb4
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   12.29545304
+_cell_length_b   10.83161147
+_cell_length_c   7.04902172
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.50045295
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Ga5Pb4
+_chemical_formula_sum   'Ga20 Pb16'
+_cell_volume   928.47283544
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  4  0.15215388  0.21389036  0.97487216  1.0
+  Ga  Ga1  4  0.20330737  0.24561818  0.37273337  1.0
+  Ga  Ga2  4  0.25183368  0.36430160  0.72630929  1.0
+  Ga  Ga3  2  0.05746263  0.00000000  0.29644163  1.0
+  Ga  Ga4  2  0.24450657  0.50000000  0.07217777  1.0
+  Ga  Ga5  2  0.35033241  0.50000000  0.43582029  1.0
+  Ga  Ga6  2  0.48726607  0.50000000  0.86529721  1.0
+  Pb  Pb7  4  0.42017039  0.26541236  0.09769293  1.0
+  Pb  Pb8  4  0.48101005  0.26136410  0.59113955  1.0
+  Pb  Pb9  2  0.00499135  0.50000000  0.86584517  1.0
+  Pb  Pb10  2  0.07011743  0.50000000  0.37227196  1.0
+  Pb  Pb11  2  0.22225073  0.00000000  0.68361306  1.0
+  Pb  Pb12  2  0.29899678  0.00000000  0.19871377  1.0

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CuAg9
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.04727660
+_cell_length_b   5.83110331
+_cell_length_c   6.49433454
+_cell_angle_alpha   77.02213289
+_cell_angle_beta   75.12990983
+_cell_angle_gamma   73.14447488
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   CuAg9
+_chemical_formula_sum   'Cu1 Ag9'
+_cell_volume   174.45322249
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1.0
+  Ag  Ag1  2  0.09894150  0.40038735  0.30364519  1.0
+  Ag  Ag2  2  0.10847286  0.89503090  0.29983599  1.0
+  Ag  Ag3  2  0.29963388  0.20319395  0.89470563  1.0
+  Ag  Ag4  2  0.30003290  0.69774988  0.89187494  1.0
+  Ag  Ag5  1  0.50000000  0.00000000  0.50000000  1.0
